@@ -111,6 +111,7 @@ Cruise Autonomous Vehicles USA (via MEEG)
 - 📧 Mohamed Eid  
 - 🔗 LinkedIn: https://www.linkedin.com/in/mohamedeid25  
 - 💼 GitHub: https://github.com/Mohamed-025
+- 📄CV: https://drive.google.com/file/d/1wEjOc9bB82P-yDItjWOzKv8qMoxxGr_h/view
 ---
 
 
